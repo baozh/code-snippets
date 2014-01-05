@@ -1,7 +1,3 @@
-
-
-
-
 u16 ExecuteShell(LPCSTR pShellName, char *szFormat, ...)
 {
 #ifdef _LINUX_
